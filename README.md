@@ -21,7 +21,12 @@ Este projeto é uma calculadora para resolver equações cúbicas (equações de
 
 ## COMO USAR?
 1. **Execução do Programa**:
-   - Execute o programa em um ambiente que suporte Swift, como Xcode, terminal com Swift instalado, ou um playground Swift.
+   - Abra o terminal.
+   - Navegue até o diretório `./CODIGO`.
+   - Execute o comando:
+   ```sh
+   swift main.swift
+   ```
 
 2. **Menu de Entrada**:
    - Ao iniciar o programa, uma mensagem de boas-vindas é exibida.
